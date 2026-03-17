@@ -1,4 +1,4 @@
-Avatar Generator Unity Plugin 🎭🎮
+# Avatar Generator Unity Plugin 🎭🎮
 
 Welcome to the Avatar Generator Plugin for Unity! This tool allows you to automatically generate realistic, rigged 3D avatars based on user-defined parameters (height, gender, and an image). The generation process is handled via Blender and FastAPI, providing high-quality models ready for use in your Unity projects.
 
